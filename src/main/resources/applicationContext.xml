@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<beans>
+    <bean id="sweetApple" class="top.kjwang.ioc.entity.Apple">
+        <property name="name" value="红富士"/>
+        <property name="origin" value="山东"/>
+    </bean>
+</beans>
